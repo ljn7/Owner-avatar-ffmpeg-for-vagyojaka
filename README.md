@@ -1,1 +1,1 @@
-# Owner-avatar-ffmpeg-for-vagyojaka
+ffmpeg-for-vagyojaka
